@@ -1,4 +1,4 @@
 # ecc-assignment2
 
 ## Introduction
-This project aims to perform analysis on the NBA shot logs data
+This project aims to perform analysis on the  Parking_Violations_Issued_-_Fiscal_Year_2023 and NBA shot logs data
