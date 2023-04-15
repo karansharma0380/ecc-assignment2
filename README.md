@@ -12,5 +12,9 @@ Python
 Go to /usr/local/spark folder 
 
 ## Setup
-Use command /n 
-sbin/start-master.sh – This will start the master at the port 8080. 
+Use command->  
+sbin/start-master.sh – This will start the master at the port 8080 and will setup our cluster. 
+
+## How to run the python programs
+
+
