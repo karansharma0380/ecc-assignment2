@@ -22,6 +22,7 @@ bin/spark-submit --master spark://149.165.153.171:7077 assignment2/ques*_part*.p
 
 ## Where to look for output
 ./assignment2/outputs/parking_violations_outputs/
-This will contain specific folder for the output. And inside that folder you can see the part-0000 file for output. 
-cat part-0000 will print the output. 
+#### This will contain specific folder for the outputs of first question. And inside that folder you can see the part-0000 file for output. 
+#### cat part-0000 will print the output. 
+#### Output of second question will be printed on the terminal. 
 
