@@ -18,7 +18,7 @@ Use command->
 
 ## How to run the python programs
 bin/spark-submit --master spark://149.165.153.171:7077 assignment2/ques*_part*.py
-Instead of * there will be number e.g. ques1_part1.py etc. 
+#### Instead of * there will be number e.g. ques1_part1.py etc. 
 
 ## Where to look for output
 ./assignment2/outputs/parking_violations_outputs/
